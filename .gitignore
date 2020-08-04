@@ -2,6 +2,7 @@ node_modules
 dist
 coverage
 data
+!src/data
 .vscode
 globalConfig.json
 clean-ts-api/src/main/config/env.ts 
